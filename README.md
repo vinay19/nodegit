@@ -1,3 +1,4 @@
+I edited some stuff
 NodeGit
 -------
 
@@ -94,6 +95,8 @@ In CircleCI:
       - sudo apt-get update
       - sudo apt-get install -y libstdc++-4.9-dev
 ```
+
+This is some more changes that I want to add.
 
 If you are still encountering problems while installing, you should try the
 [Building from source](http://www.nodegit.org/guides/install/from-source/)
